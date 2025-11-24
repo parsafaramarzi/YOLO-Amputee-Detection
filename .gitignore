@@ -1,0 +1,12 @@
+yolo11x-pose.pt
+dataset/01.mp4
+dataset/02.mp4
+dataset/03.mp4
+dataset/04.mp4
+dataset/05.mp4
+output/yolov11_pose_estimator_detected01.mp4
+output/yolov11_pose_estimator_detected02.mp4
+output/yolov11_pose_estimator_detected03.mp4
+output/yolov11_pose_estimator_detected04.mp4
+output/yolov11_pose_estimator_detected05.mp4
+framegenerator.py
