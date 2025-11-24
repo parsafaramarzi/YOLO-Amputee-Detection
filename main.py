@@ -2,7 +2,7 @@ import imageio
 from ultralytics import YOLO
 import cv2
 
-dataset = cv2.VideoCapture("dataset/No Legs No Problem.mp4")
+dataset = cv2.VideoCapture("dataset/05.mp4")
 model = YOLO("yolo11x-pose.pt")
 draw_pose_flag = True
 draw_boxes_flag = True
